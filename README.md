@@ -36,6 +36,9 @@ These steps ensured clean, consistent and analysis-ready data.
 <img width="859" height="623" alt="image" src="https://github.com/user-attachments/assets/b4993820-ede7-42f0-adb6-6fee9a079c10" />
 
 ### 4. Salary Trend by Termination Year
+<img width="700" height="533" alt="image" src="https://github.com/user-attachments/assets/41600806-6f05-4f93-8486-e77784a35873" />
+
+### 5. Correlation Heatmap
 
 
 ## Key Insights
