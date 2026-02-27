@@ -30,6 +30,9 @@ These steps ensured clean, consistent and analysis-ready data.
 <img width="738" height="556" alt="image" src="https://github.com/user-attachments/assets/488e1784-6e14-461c-8ee4-8d4b17873e7c" />
 
 ### 2. Salary by Employment Status
+<img width="742" height="556" alt="image" src="https://github.com/user-attachments/assets/dd706b7d-3c66-4ec6-9ef6-2a777cbef44f" />
+
+### 3. Average Salary By Employee Category
 
 
 ## Key Insights
