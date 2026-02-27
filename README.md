@@ -1,4 +1,4 @@
-# employee_compensation_and_payroll_analysis
+# Employee Compensation and Payroll Analysis
 
 ## Project Overview
 This project analyzes employee compensation data to understand salary distribution, overtime patterns, workforce structure and employment status trends. The objective is to derive actionable insights that support data-driven HR decision-making and strategic workforce planning.
