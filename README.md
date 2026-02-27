@@ -32,7 +32,10 @@ These steps ensured clean, consistent and analysis-ready data.
 ### 2. Salary by Employment Status
 <img width="742" height="556" alt="image" src="https://github.com/user-attachments/assets/dd706b7d-3c66-4ec6-9ef6-2a777cbef44f" />
 
-### 3. Average Salary By Employee Category
+### 3. Average Salary by Employee Category
+<img width="859" height="623" alt="image" src="https://github.com/user-attachments/assets/b4993820-ede7-42f0-adb6-6fee9a079c10" />
+
+### 4. Salary Trend by Termination Year
 
 
 ## Key Insights
