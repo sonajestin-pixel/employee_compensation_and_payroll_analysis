@@ -27,6 +27,10 @@ These steps ensured clean, consistent and analysis-ready data.
 
 ## Key Visualizations
 ### 1. Salary Distribution
+<img width="738" height="556" alt="image" src="https://github.com/user-attachments/assets/488e1784-6e14-461c-8ee4-8d4b17873e7c" />
+
+### 2. Salary by Employment Status
+
 
 ## Key Insights
 
