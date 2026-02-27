@@ -39,7 +39,9 @@ These steps ensured clean, consistent and analysis-ready data.
 <img width="700" height="533" alt="image" src="https://github.com/user-attachments/assets/41600806-6f05-4f93-8486-e77784a35873" />
 
 ### 5. Correlation Heatmap
+<img width="829" height="727" alt="image" src="https://github.com/user-attachments/assets/df5f3008-da2a-4e31-b6ca-2ebe1777f47b" />
 
+---
 
 ## Key Insights
 
