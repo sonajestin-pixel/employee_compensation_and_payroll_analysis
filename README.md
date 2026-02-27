@@ -25,6 +25,9 @@ These steps ensured clean, consistent and analysis-ready data.
 
 ---
 
+## Key Visualizations
+### 1. Salary Distribution
+
 ## Key Insights
 
 ### Workforce Structure
